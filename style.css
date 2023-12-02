@@ -16,11 +16,11 @@ body{
 }
 .navbar{
     width: 86%;
+    align-items: center;
+    justify-content: space-between; 
     display: flex;
     margin: auto;
     padding: 15px 0;
-    align-items: center;
-    justify-content: space-between;
 }
 ul{
     margin-left: auto;
